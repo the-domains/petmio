@@ -1,14 +1,28 @@
+name: PetMio
+favicon: null
 layout_spectrum: 0
+typography_spectrum: 0.3387097
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1483674
-  lightness: 0.797853
-  brandStrength: 0.8412834
   brandColors:
     - '#55C1B4'
     - '#FAAF40'
     - '#A6A295'
     - '#3A3934'
     - '#010101'
+  brandStrength: 0.8412834
+  lightness: 0.797853
+  saturation: 0.1483674
   rhythmicContrast: 0.9397678
-typography_spectrum: 0.3387097
-name: PetMio
+purpose: []
